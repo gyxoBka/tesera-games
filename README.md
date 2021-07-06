@@ -1,5 +1,5 @@
 # tesera-games
-nuxt app games using rest api
+mvp nuxt app games using rest api
 
 ## Install
 ```
